@@ -1,0 +1,21 @@
+#logo{
+	text-align:center;
+}
+
+#searchbar{
+	text-align:center;
+}
+
+#searchbuttons{
+	text-align:center;
+}
+
+.searchbutton{
+	background-color:#f2f2f2;
+	color:#757575;
+}
+
+.searchbutton:hover{
+	background-color:#f8f8f8;
+	color:#222;
+}
